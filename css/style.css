@@ -1,0 +1,20 @@
+.bottom{
+border:  solid ;
+border-color: black;
+width: 90px;
+height: 90px;
+margin: 50px 10px 25px 10px;
+}
+.middle{
+    border: solid;
+    border-color: brown;
+    width: 180px;
+    height: 180px;
+    margin: 10px 25px 10px 50px;
+}
+.top{
+    border: solid;
+    border-color: darkmagenta;
+    width: 270px;
+    height: 270px;  
+}
