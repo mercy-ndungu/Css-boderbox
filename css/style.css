@@ -3,18 +3,20 @@ border:  solid ;
 border-color: black;
 width: 90px;
 height: 90px;
-margin: 50px 10px 25px 10px;
+margin: 50px 0px 25px 40px;
 }
 .middle{
     border: solid;
     border-color: brown;
     width: 180px;
     height: 180px;
-    margin: 10px 25px 10px 50px;
+    margin: 50px 25px 50px 75px;
 }
 .top{
     border: solid;
     border-color: darkmagenta;
     width: 270px;
     height: 270px;  
+    margin-left: 300px;
+     margin-top: 200px;
 }
